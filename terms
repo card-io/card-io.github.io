@@ -1,0 +1,202 @@
+
+<!doctype html>
+<html lang="en-us" class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+<!--
+Greetings!
+
+If you're reading this, you might be the kind of person who would love working
+with us here at card.io.
+
+Send an email to jobs@card.io and show us something you've worked on. We would
+love to chat.
+-->
+  <title>card.io - Security, Privacy, and Terms</title>
+  <meta name="description" content="The security of financial information is extremely important to us, and we are committed to protecting this information.">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="/static/css/card.io.css" type="text/css">
+  <link rel="icon" href="/static/images/icons/cardio_16.png" type="image/png">
+  <link rel="apple-touch-icon" sizes="57x57" href="/static/images/icons/cardio_57.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="/static/images/icons/cardio_72.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="/static/images/icons/cardio_114.png" />
+  
+  
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22718063-1']);
+  _gaq.push(['_setDomainName', 'card.io']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</head>
+
+<body>
+  
+    
+
+
+
+
+  
+  
+  
+  
+  
+
+
+  <div class="navbar navbar-static-top">
+    <div class='navbar-inner'>
+      <div class="container">
+
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+
+          
+            <a class='brand ' href="/">card.io</a>
+          
+
+          
+          <div class='nav-collapse'>
+
+            
+            <ul class="nav pull-right">
+              <li class='sdkLink'>
+                <a href="https://github.com/card-io/card.io-iOS-SDK" target="_blank">
+                  <span class='githubIcon'></span> iOS SDK
+                </a>
+              </li>
+              <li class='sdkLink'>
+                <a href="https://github.com/card-io/card.io-Android-SDK" target="_blank">
+                  <span class='githubIcon'></span> Android SDK
+                </a>
+              </li>
+            
+              <li class=""><a href="/accounts/register/developer">Get an app token</a></li>
+              <li class=""><a href="/accounts/login/">Sign in</a></li>
+            
+            </ul>
+            
+
+          </div>
+          
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+    <div id="main-container" class="container">
+      
+    
+
+    
+
+<h2>Security Policy</h2>
+
+<p>The security of financial information is extremely important to us, and we are committed to protecting this information. Card.io never saves card numbers, all data is protected with 256-bit SSL encryption, and our servers are hosted in secure facilities.  We may also employ proprietary security techniques to protect data against fraud, loss, misuse, alteration, and unauthorized access.</p>
+
+<p>Card.io requires all customers that use our service to comply with all applicable laws, including data usage and protection laws that require posting a privacy policy and treating customer data with appropriate care and security. We encourage all users to review the security and privacy policies of sites and apps they visit for information about those sites’ data practices.</p>
+
+<p>We are committed to immediately addressing any problems should they occur. If you believe you have found a security problem, please contact us at security@card.io with sufficient information to reproduce the problem, and we will respond within 48 hours.</p>
+
+<h2>Privacy Policy</h2>
+
+<p>Our customers may be asked to provide personal information during the registration process, including name, email address, and company information. We use this information only for the purpose for which it is requested, including validation, notification of account information, and to inform you of various company products or services.</p>
+
+<p>This policy also extends to treatment of personal information from end-users of the card.io services, including our card scanning services. When we receive a request to scan a credit card from an authorized application, we may collect a variety of information, including: IP address, timestamp, and a one-way, non-recoverable hash of the phone's unique device identifier. We never save any card numbers or the phone's unhashed unique device identifier.</p>
+
+<p>Customers or users that have any privacy concerns can <a href="/support/">contact support</a>.</p>
+
+<h2>Terms and Conditions</h2>
+
+<p>This agreement ("Agreement") between You and Lumber Labs ("Company") constitutes the Card.io Service (the "Service") standard terms and conditions. Your online registration at https://card.io constitutes acceptance of all the terms and conditions described here. "You" or "Your" means any entity identified in an enrollment form submitted by the same or affiliated persons, and/or any agency, network or other third party that You have granted access to Your account and/or Your Service Data (as defined below), which will also be bound by the terms and conditions of this Agreement.</p>
+
+<p>Description of Service. During the Service Term, Company will provide credit card scanning services for use by the App(s) or Site(s) which use the Service ("Service App(s)") via a protocol , user interface, and/or application programming interface provided by Company for accessing the Service, which may be updated by Company from time to time ("Service Interface"). Your use of any other Company product or service will be governed by the applicable agreement that You may have with Company.</p>
+
+<p>Implementation of Service. Unless otherwise agreed to by Company in writing, You will implement the Service in a manner that complies with the technical and implementation requirements provided by Company from time to time, including those instructions contained in the documentation regarding the Service Interface. Without limiting the foregoing, You acknowledge and agree to the following:</p>
+
+<ul>
+
+<li><p>a. Service Obligations. You will be solely responsible for all data and any other information You enter into the Service, whether generated by or for You ("Service Data"). You will protect any Service accounts, usernames or passwords and take full responsibility for Your own, and third party, use of any Service accounts, usernames or passwords.</p></li>
+
+<li><p>b. Policies. Use of the Service is subject to all applicable Company requirements and policies as may be updated or modified from time to time, including without limitation (i) Your continued compliance with the Service policies, located at this URL or another URL as Company may provide from time to time. Notwithstanding anything to the contrary, Company will have no obligation to process a request for a scan that is not sent in compliance with the requirements of this Agreement. While Company does not intend, and does not undertake, to monitor the Service Data, if Company is notified by You or otherwise becomes aware and determines in its sole discretion that the Service Data or any portion of the Service Data violates any applicable law or is subject to an injunction or may create liability for Company, Company may cease to provide the Service entirely with no liability to Company. You will have and abide by an appropriate privacy policy and will comply with all applicable laws relating to the collection of information from end users of Service App(s).</p></li>
+
+<li><p>c. Prohibited Actions. You will not, and will not allow any third party to: (a) directly or indirectly access, launch and/or activate the Service through or from, or otherwise incorporate the Service in, any software application, website or other means other than the app(s), and then only to the extent expressly permitted herein; (b) modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Service, Company's then current protocol for accessing and implementing the Service (the "Company Protocol"), or any other Company technology, content, data, routines, algorithms, methods, ideas design, user interface techniques, software, materials, and documentation; (c) remove, deface, obscure, or alter Company's copyright notice, trademarks or other proprietary rights notices affixed to or provided as a part of the Service, the Company Protocol, or any other Company technology, software, materials and documentation; (d) create or attempt to create a substitute or similar service or product through use of or access to any of the Service or proprietary information related thereto; (e) utilize any feature or functionality of the Service, or include anything in Service Data that could be so utilized, to personally identify and/or personally track individual end users or any other persons; or (f) engage in any action or practice that reflects poorly on Company or otherwise disparages or devalues Company's reputation or goodwill. Company may terminate the Service, immediately upon written notice if You breach this Section.</p></li>
+
+<li><p>d. No Endorsement. You acknowledge and agree that Company is not affiliated with or responsible for any services You may choose to manage with the Service. Company does not represent or endorse the quality, accuracy, reliability, integrity or legality of any third party products/services. Company further does not represent or endorse the usage of Company's Services by any third party products/services ("Disclaimed Content"). Company hereby disclaims any liability or responsibility for errors or omissions in any Disclaimed Content. Company reserves the right, but will have no responsibility, to refuse service should the Company deem that You are using Company Services in any way that would be objectionable, erroneous, illegal, fraudulent or otherwise in violation of this Agreement.</p></li>
+
+</ul>
+
+<p>Service Term. This Agreement will be effective as of the date Company activates Your Service account and will continue unless earlier terminated as provided in this Agreement. You may terminate this Agreement, with or without cause, at any time by sending written notice of Your desire to cancel Your participation in the Service to info@card.io (the "Service Term"). This Agreement will be deemed terminated within ten (10) business days of Company's receipt of Your notice. In the event that Company chooses to terminate the Service, Company has no obligation to provide any prior notice thereof. Company may investigate any activity that may violate this Agreement. If You violate this Agreement or any Service Policies, Company may in its sole discretion, without notice, terminate this Agreement, or suspend or terminate the participation of Your Service Site in all or part of the Service. For any other violations, Company will give you fourteen (14) days notice period to cure such violations, and if such violation is not cured within fourteen (14) days of Company sending such notice to You, Company may terminate this Agreement, or suspend or terminate the participation of Your Service Site in all or part of the Service. In addition, Company may terminate this Agreement, or suspend or terminate the participation of Your Service Site in all or part of the Service, with or without cause, upon ninety (90) day's prior notice.</p>
+
+<p>License to Service Interface. Company grants to You a limited, non-exclusive and non-sublicensable license during the Service Term to use the Service Interface solely for its intended purpose. Company does not grant, and You will not acquire, any right, title or interest (including, without limitation, any implied license) in or to any Company intellectual property rights; and all rights not expressly granted herein are reserved to Company.</p>
+
+<p>Data Use. Company may retain and use, subject to the terms of its Privacy Policy, all Service Data. Service Data provided by You under this Agreement may not be disclosed as Service Data identifiable to You by Company except to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) detect, prevent, or otherwise address fraud or security issues, or (c) protect against imminent harm to the rights, property or safety of Company or the public as required or permitted by law. You agree that Company may aggregate Service Data with data collected from other Service users, and use such aggregated data, provided that Company will only aggregate data in a manner such that no third party could identify which users' data contributed to the aggregated set.</p>
+
+<p>Confidentiality; Publicity. You agree not to disclose Company Confidential Information without Company's prior written consent. "Company Confidential Information" includes without limitation: (a) all Company software, technology, programming, specifications, materials, guidelines and documentation relating to the Service, including the existence and content of this Agreement and any information provided pursuant to the Agreement; (b) any statistics relating to the performance of the Service; and (c) any other information designated in writing by Company as "Confidential" or an equivalent designation. Company Confidential Information does not include information that has become publicly known through no breach by You or Company, or information that has been (i) independently developed without access to Company Confidential Information as evidenced in writing; (ii) rightfully received by You from a third party; or (iii) required to be disclosed by law or by a governmental authority. You will not use Company's Brand Features in any news release, public announcement, advertisement, or other form of publicity in relation to this Agreement without securing the prior written consent of Company.</p>
+
+<p>Disclaimer. You acknowledge that the Service is still experimental in nature. Company does not represent or warrant that the Service is reliable, accurate, complete, or otherwise free from defects. Accordingly, the Service is made available for use "as is", and any use thereof will be undertaken solely at Your own risk. Company reserves the right, in its sole discretion, to include or cease providing the Service at any time (subject to notice as may be required herein), and Company does not give or enter into any conditions, warranties or other terms with regard to the Service. In particular, no condition, warranty or other term is given or entered into to the effect that the Service will be of satisfactory quality, noninfringement or that the Service will be fit for any particular purpose. For the avoidance of doubt, Company does not guarantee the Service will be operable at all times or during any down time (i) caused by outages to any public Internet backbones, networks or servers, (ii) caused by any failures of Your equipment, systems or local access services, (iii) for previously scheduled maintenance or (iv) relating to events beyond Company's (or its wholly owned subsidiaries') control such as strikes, riots, insurrection, fires, floods, explosions, war, governmental action, labor conditions, earthquakes, natural disasters, or interruptions in Internet services to an area where Company (or its wholly owned subsidiaries) or Your servers are located or co-located.</p>
+
+<p>Limitation of Liability. Company AND ITS WHOLLY OWNED SUBSIDIARIES WILL NOT BE LIABLE TO YOU OR ANY THIRD-PARTY CLAIMANT FOR ANY INDIRECT, SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING, WITHOUT LIMITATION, LOST PROFITS OR LOST DATA COLLECTED THROUGH THE SERVICE), OR INCIDENTAL DAMAGES, WHETHER BASED ON A CLAIM OR ACTION OF CONTRACT, WARRANTY, NEGLIGENCE, STRICT LIABILITY, OR OTHER TORT, BREACH OF ANY STATUTORY DUTY, INDEMNITY OR CONTRIBUTION, OR OTHERWISE, EVEN IF Company AND/OR ITS SUBSIDIARIES AND AFFILIATES HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME STATES DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE LIMITATIONS OR EXCLUSIONS IN THIS AND THE FOREGOING PARAGRAPH MAY NOT APPLY TO YOU. In any event, Company's (and its wholly owned subsidiaries') total cumulative liability to You or any other party for any loss or damages resulting from any claims, demands, or actions arising out of or relating to this Agreement will not exceed U.S. $500.</p>
+
+<p>Representations and Warranties. You represent and warrant that: (i) You have and will maintain throughout the Service Term all rights, authorizations and licenses (including without limitation any copyright, trademark, patent, publicity or other rights) that are required with respect to Service Data to permit Company to perform the Services contemplated under this Agreement (including without limitation any rights needed to host, cache, route, transmit, store, copy, modify, distribute, perform, display, reformat, excerpt, analyze, and create algorithms from and derivative works of Service Data); (ii) You will not use Service for anything illegal or engage in any illegal or fraudulent business practice; (iii) all of the information provided by You to Company to enroll in the Service is correct and current; (iv) You have all necessary right, power, and authority to enter into this Agreement and to perform the acts required of You hereunder; and (v) You have complied and will continue to comply with all applicable laws, statutes, ordinances, and regulations (including without limitation, any relevant financial, data protection, or privacy laws) in Your performance of any acts hereunder.</p>
+
+<p>Indemnify. You agree to indemnify, defend and hold Company, its agents, affiliates, subsidiaries, directors, officers, employees, and applicable third parties (e.g. relevant advertisers, syndication partners, licensors, licensees, consultants and contractors) (collectively "Indemnified Person(s)") harmless from and against any and all third party claims, liability, loss, and expense (including damage awards, settlement amounts, and reasonable legal fees), brought against any Indemnified Person(s), arising out of, related to or which may arise from Your use of the Service, the Service App(s), and/or Your breach of any term of this Agreement.</p>
+
+<p>Miscellaneous. All claims arising out of or relating to this Agreement will be litigated exclusively in the federal or state courts of San Francisco County, California, USA and Company and You consent to personal jurisdiction in those courts. The Agreement constitutes the entire agreement between the parties with respect to the Service. Any notices to Company must be sent to: Lumber Labs, Inc., 455 Valencia Avenue, San Francisco, CA 94103 via certified mail or overnight courier, and are deemed given upon receipt. Notice to You may be effected by sending email to the email address specified in Your account, or by posting a message to Your account interface, and is deemed received when sent (for email) or no more than fifteen (15) days after having been posted (for messages in Your Service Interface). Company's waiver of any default is not a waiver of any subsequent default. Unenforceable provisions will be modified to reflect the parties' intention, and remaining provisions of the Agreement will remain in full effect. You may not assign any of Your rights hereunder and any such attempt is void. Company and You are not legal partners or agents, but are independent contractors. All sections will survive any expiration or termination of this Agreement.</p>
+
+<h2>Changes to Terms and Policies</h2>
+
+<p>We may amend these terms and policies from time to time as we add new products and services, as we improve our current offerings, and as technologies change. If we make any material or substantive changes in our treatment of information collected on our web sites, we will notify you by posting a clear and conspicuous notice of these changes on our website.</p>
+
+
+
+      
+
+<footer>
+  <hr>
+  <ul class='inline'>
+    <li><a href='https://www.twitter.com/cardio' target="_blank">@cardio</a></li>
+    <li><a href='/team/'>Team</a></li>
+    <li><a href="https://github.com/card-io/press-kit">Press Kit</a></li>
+    <li><a href="/support/">Support</a></li>
+    <li>&copy; 2014 PayPal. All rights reserved.</li>
+  </ul>
+</footer>
+
+
+    </div>
+
+    
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/cardio.js" type="text/javascript" charset="utf-8"></script>
+  
+
+  
+
+    <!--[if lt IE 9 ]>
+      <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+      <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+    <![endif]-->
+
+</body>
+</html>
