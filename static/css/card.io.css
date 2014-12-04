@@ -6534,6 +6534,9 @@ div.press .releases a {
 .beer {
   background-image: url("/static/images/beers.png");
 }
+.speech {
+  background-image: url("/static/images/speech.png");
+}
 .emoji {
   text-indent: -10000px;
   background-color: transparent;
