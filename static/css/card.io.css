@@ -6448,6 +6448,11 @@ ul.twitter li {
 .partners #eat24Logo {
   background-image: url("/static/images/partners/eat24.jpg");
 }
+.partners #lyftLogo {
+  background-image: url("/static/images/partners/lyft.png");
+}
+
+
 tr.unavailable {
   color: #888888;
 }
